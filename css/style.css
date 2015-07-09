@@ -144,6 +144,7 @@ body {
 	padding: 50px;
    	background-image: url(../img/hanabi1.jpg);
    	background-attachment: fixed;
+   	height: 100vh;
 }
 
 .pg-favorite-title {
