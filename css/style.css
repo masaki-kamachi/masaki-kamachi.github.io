@@ -1,0 +1,252 @@
+/*
+  ヘッダー
+*/
+body {
+
+}
+.pg-header {
+	text-align: center;
+	/* 画像を常に天地左右の中央に配置 */
+  	background-position: center center;
+   /* 画像をタイル状に繰り返し表示しない */
+   background-repeat: no-repeat;
+   /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
+   background-attachment: fixed;
+   /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
+   background-size: cover;
+   /* 背景画像が読み込まれる前に表示される背景のカラー */
+   padding: 50px;
+   height: 100vh;
+   background-image: url(../img/IMGP5350.JPG);
+}
+
+.pg-header-main-icon {
+
+}
+
+
+.pg-header-title {
+	margin-top: 90px;
+	color: #fff;
+}
+
+.pg-header-subtitle {
+	margin-top: 20px;
+	color: #fff;
+}
+
+.pg-header-direction-icon {
+	margin-top: 90px;
+}
+
+.pg-main {
+	text-align: center;
+}
+
+.pg-notion {
+	padding: 80px;
+	background-image: url(../img/bg-tile.png);
+}
+
+.pg-notion-sentenses p + p {
+	margin-top: 20px;
+}
+
+.pg-notion-sentense {
+
+}
+
+.pg-notion-title {
+	margin-top: 50px;
+}
+
+.pg-notion-contents {
+	margin: 0 auto;
+	max-width: 900px;
+	margin-top: 30px;
+}
+
+.pg-notion-contents .pg-notion-content + .pg-notion-content {
+	margin-left: 30px;
+}
+
+.pg-notion-content {
+	float: left;
+	width: 280px;
+	text-align: left;
+}
+
+.pg-notion-content-title {
+
+}
+
+.pg-notion-content-sentense {
+
+}
+
+.pg-ability {
+	background: #66212A;
+	color: #fff;
+	padding: 50px;
+   	background-image: url(../img/hanabi1.JPG);
+   	background-attachment: fixed;
+
+}
+
+.pg-ability-title {
+
+}
+
+.pg-ability-contents {
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.pg-ability-contents .pg-ability-content + .pg-ability-content {
+	margin-left: 30px;
+}
+
+.pg-ability-content {
+	float: left;
+	width: 280px;
+	margin-top: 30px;
+}
+
+.pg-ability-img {
+
+}
+
+.pg-ability-content-title {
+
+}
+
+.pg-ability-content-aside {
+
+}
+
+.pg-ability-button {
+	width: 250px;
+	height: 50px;
+	font-weight: bold;
+	border-radius: 10px;
+	margin-top: 50px;
+	background-color: #BE8B09;
+}
+
+.pg-ability-button:hover {
+	cursor: pointer;
+	background-color: #C19E46;
+}
+
+.pg-favorite {
+	padding: 80px;
+	background: #54494A;
+	padding: 50px;
+   	background-image: url(../img/hanabi1.jpg);
+   	background-attachment: fixed;
+}
+
+.pg-favorite-title {
+	color: #fff;
+}
+
+.pg-favorite-sentenses {
+	margin-top: 30px;
+}
+
+.pg-favorite-sentenses .pg-favorite-sentense + .pg-favorite-sentense {
+	margin-top: 30px;
+}
+
+.pg-favorite-sentense {
+
+}
+
+.pg-favorite-imgs {
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.pg-favorite-imgs .pg-favorite-img + .pg-favorite-img {
+	margin-left: 30px;
+}
+
+.pg-favorite-img {
+	float: left;
+	width: 280px;
+	margin-top: 60px;
+}
+
+.pg-favorite-button {
+	color: #fff;
+	width: 250px;
+	height: 50px;
+	font-weight: bold;
+	border-radius: 10px;
+	margin-top: 100px;
+	background-color: #32435F;
+}
+
+.pg-favorite-button:hover {
+	cursor: pointer;
+	background-color: #6A8CC7;
+}
+
+.pg-footer {
+	text-align: center;
+	background: #54494A;
+	padding: 20px;
+}
+
+.pg-footer-icons {
+	margin: 0 auto;
+	width: 150px;
+	margin-top: 30px;
+}
+
+.pg-footer-icons .pg-footer-icon + .pg-footer-icon {
+	margin-left: 30px;
+}
+
+.pg-footer-icon {
+	float: left;
+	width: 30px;
+}
+
+.br {
+	display: block;
+}
+
+.pg-footer-time {
+	color: #fff;
+	margin-top: 30px;
+
+}
+
+.pg-footer-aside {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
